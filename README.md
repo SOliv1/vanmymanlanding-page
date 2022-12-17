@@ -1,3 +1,5 @@
+[![Jekyll site CI](https://github.com/SOliv1/vanmymanlanding-page/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/SOliv1/vanmymanlanding-page/actions/workflows/jekyll-docker.yml)
+
 # vanmymanlanding-page
 
 This landing page was created with [Start Bootstrap](https://startbootstrap.com/previews/landing-page) 
