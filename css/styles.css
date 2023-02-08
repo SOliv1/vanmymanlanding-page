@@ -4063,8 +4063,16 @@ textarea.form-control-lg {
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
+  font-display: bold;
   text-decoration: none;
   white-space: nowrap;
+}
+
+span {
+  text-transform: capitalize;
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: bold;
 }
 .navbar-nav {
   display: flex;
