@@ -2475,13 +2475,13 @@ textarea.form-control-lg {
 }
 
 .form-check {
-  display: block;
+  display: inline-flex;
   min-height: 1.5rem;
   padding-left: 1.5em;
   margin-bottom: 0.125rem;
 }
 .form-check .form-check-input {
-  float: left;
+  float: inline-start;
   margin-left: -1.5em;
 }
 
