@@ -4,7 +4,7 @@
 
 ## vanmymanlanding-page
 ### View the live site here on [Netlify](https://vanmyman.netlify.app/)
-### Live site on Google [here](https://www.vanmyman.com/)
+
 This landing page was created with [Start Bootstrap](https://startbootstrap.com/previews/landing-page) 
 
 ## Fully Responsive
